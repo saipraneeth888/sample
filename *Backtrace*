@@ -1,0 +1,4 @@
+Debugger entered--Lisp error: (void-variable Wq)
+  eval(Wq nil)
+  eval-expression(Wq nil)
+  call-interactively(eval-expression nil nil)
